@@ -1,3 +1,4 @@
-from icecream import ic
+print('yo!')
 
-ic('yoo')
+
+
