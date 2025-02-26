@@ -1,0 +1,4 @@
+gitvenv/
+*.log
+node_modules/
+.env
